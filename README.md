@@ -71,8 +71,7 @@
 - [UnBBayes (open source s/w for modeling, learning and reasoning upon probabilistic networks](http://unbbayes.sourceforge.net/)
 
 
-<hr/>
-<hr/>
+<hr class="thick"/>
 
 ## About Markdown
 
