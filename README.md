@@ -28,7 +28,7 @@
 ## Reading Material
 
 - [Judea Pearl home](http://bayes.cs.ucla.edu/home.htm)
-- ['Causality' book page](http://bayes.cs.ucla.edu/BOOK-2K/)
+  - ["Causality" book page](http://bayes.cs.ucla.edu/BOOK-2K/)
 - [DGA (wikipedia)](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
 - [UCLA: Department of Statistics, UCLA (eScholarship)](https://escholarship.org/uc/uclastat_papers)
 - [UAI - Uncertainty in Artificial Intelligence (Decision Science Labs @UPitt)](https://dslpitt.org/uai/home.jsp?mmnu=0&smnu=0)
@@ -42,12 +42,8 @@
 
 ### Books
 
-- Pearl: "Causality"
-  - [@Amazon](https://www.amazon.com/dp/052189560X/)
-  - [@UCLA](http://bayes.cs.ucla.edu/BOOK-2K/)
-- Koller & Friedman: "Probabilistic Graphical Models" (The MIT Press)
-  - [@MIT Press](https://mitpress.mit.edu/books/probabilistic-graphical-models)
-  - [@Amazon](https://www.amazon.com/Probabilistic-Graphical-Models-Principles-Computation/dp/0262013193)
+- Pearl: "Causality" / [@UCLA](http://bayes.cs.ucla.edu/BOOK-2K/) / [@Amazon](https://www.amazon.com/dp/052189560X/)
+- Koller & Friedman: "Probabilistic Graphical Models" / [@MIT Press](https://mitpress.mit.edu/books/probabilistic-graphical-models) / [@Amazon](https://www.amazon.com/Probabilistic-Graphical-Models-Principles-Computation/dp/0262013193)
 
 
 <hr/>
@@ -65,10 +61,8 @@
 ## Software
 
 - [Adam Kelleher 'causality' python package](https://github.com/akelleh/causality)
-- [Google's CausalImpact R package](https://google.github.io/CausalImpact/CausalImpact.html)
-  - [on GitHub](https://google.github.io/CausalImpact/)
-- [TETRAD](http://www.phil.cmu.edu/tetrad/)
-  - [on GitHub](https://github.com/cmu-phil/tetrad)
+- [Google's CausalImpact R package](https://google.github.io/CausalImpact/CausalImpact.html) / [on GitHub](https://google.github.io/CausalImpact/)
+- [TETRAD](http://www.phil.cmu.edu/tetrad/) / [on GitHub](https://github.com/cmu-phil/tetrad)
 - [University of Pittsburgh Center for Causal Discovery (CCD)](http://www.ccd.pitt.edu/data-science/)
 - [ETHZ causality resources](http://www.causality.inf.ethz.ch/resources.php)
 - Other python packages:
