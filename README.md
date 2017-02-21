@@ -6,6 +6,7 @@
 
 - [main page](http://mensxmachina.org/en/)
 - [R package](https://cran.r-project.org/web/packages/MXM/index.html)
+- [Tsamardinos academic page](http://www2.ics.forth.gr/bil/index_main.php?l=e&c=535)
 
 <hr/>
 
@@ -50,6 +51,7 @@
 
 ## Research Groups
 
+- [Probabilistic Graphical Models @Stanford](http://pgm.stanford.edu/)
 - [Vanderbilt Discovery Systems Laboratory](http://www.dsl-lab.org/)
 - [Project X Research - Direct Graphical Models](http://research.project-10.de/dgm/)
 - [University of Pittsburgh Center for Causal Discovery (CCD)](http://www.ccd.pitt.edu/data-science/)
@@ -60,8 +62,8 @@
 
 ## Software
 
-- [Adam Kelleher 'causality' python package](https://github.com/akelleh/causality)
-- [Google's CausalImpact R package](https://google.github.io/CausalImpact/CausalImpact.html) / [on GitHub](https://google.github.io/CausalImpact/)
+- Adam Kelleher `causality` python package: [pypi](https://pypi.python.org/pypi/causality/0.0.3) and [GitHub](https://github.com/akelleh/causality)
+- [Google's `CausalImpact` R package](https://google.github.io/CausalImpact/CausalImpact.html) / [on GitHub](https://google.github.io/CausalImpact/)
 - [TETRAD](http://www.phil.cmu.edu/tetrad/) / [on GitHub](https://github.com/cmu-phil/tetrad)
 - [University of Pittsburgh Center for Causal Discovery (CCD)](http://www.ccd.pitt.edu/data-science/)
 - [ETHZ causality resources](http://www.causality.inf.ethz.ch/resources.php)
