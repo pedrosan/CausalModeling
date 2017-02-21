@@ -1,7 +1,6 @@
 ## Causality Modeling Resources
 
-You can use the [editor on GitHub](https://github.com/pedrosan/CausalModeling/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+You can use the [editor on GitHub](https://github.com/pedrosan/CausalModeling/edit/master/README.md) to maintain and preview the content for your website in Markdown files. <br/>
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## MXM
@@ -24,6 +23,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   - [Bayesian Networks](https://ermongroup.github.io/cs228-notes/representation/directed/)
 - [NYU Sontag PGM course](http://cs.nyu.edu/~dsontag/courses/pgm13/)
 
+
 <hr/>
 
 ## Reading Material
@@ -32,20 +32,26 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - [Judea Pearl home](http://bayes.cs.ucla.edu/home.htm)
 - ['Causality' book page](http://bayes.cs.ucla.edu/BOOK-2K/)
 
+
+<hr/>
+
 ## Software
 
 - [Adam Kelleher 'causality' python package](https://github.com/akelleh/causality)
 
 
-<hr>
+<hr/>
+<hr/>
 
 ## About Markdown
 
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 **Bold** and _Italic_ and `Code` text
 
+```
 [Link](url) and ![Image](src)
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
 
 ```markdown
 Syntax highlighted code block
