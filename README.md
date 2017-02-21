@@ -30,8 +30,8 @@
 - [Judea Pearl home](http://bayes.cs.ucla.edu/home.htm)
   - ["Causality" book page](http://bayes.cs.ucla.edu/BOOK-2K/)
 - [DGA (wikipedia)](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
-- [UCLA: Department of Statistics, UCLA (eScholarship)](https://escholarship.org/uc/uclastat_papers)
-- [UAI - Uncertainty in Artificial Intelligence (Decision Science Labs @UPitt)](https://dslpitt.org/uai/home.jsp?mmnu=0&smnu=0)
+- [UCLA Department of Statistics publications (eScholarship)](https://escholarship.org/uc/uclastat_papers)
+- [Uncertainty in Artificial Intelligence (Decision Science Labs @UPitt)](https://dslpitt.org/uai/home.jsp?mmnu=0&smnu=0)
 
 ### Blogs
 
