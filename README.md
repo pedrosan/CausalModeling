@@ -37,9 +37,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Blogs
 
 - [Adam Kelleher blog series](https://medium.com/@akelleh/causal-data-science-721ed63a4027)
-- [StitchFix: Making Causal Impact Analysis Easy](http://multithreaded.stitchfix.com/blog/2016/01/13/market-watch/)
-- [Thomas Huijskens: The fundamental problem of causal analysis](https://thuijskens.github.io/2016/08/25/causal-modelling/)
-- [Yanir Seroussi: Why you should stop worrying about deep learning and deepen your understanding of causality instead](https://yanirseroussi.com/2016/02/14/why-you-should-stop-worrying-about-deep-learning-and-deepen-your-understanding-of-causality-instead/)
+- [StitchFix: _Making Causal Impact Analysis Easy_](http://multithreaded.stitchfix.com/blog/2016/01/13/market-watch/)
+- [Thomas Huijskens: _The fundamental problem of causal analysis_](https://thuijskens.github.io/2016/08/25/causal-modelling/)
+- [Yanir Seroussi: _Why you should stop worrying about deep learning and deepen your understanding of causality instead_](https://yanirseroussi.com/2016/02/14/why-you-should-stop-worrying-about-deep-learning-and-deepen-your-understanding-of-causality-instead/)
 
 ### Books
 
@@ -68,7 +68,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - [Adam Kelleher 'causality' python package](https://github.com/akelleh/causality)
 - [Google's CausalImpact R package](https://google.github.io/CausalImpact/CausalImpact.html)
   - [on GitHub](https://google.github.io/CausalImpact/)
-- (TETRAD)[http://www.phil.cmu.edu/tetrad/]
+- [TETRAD](http://www.phil.cmu.edu/tetrad/)
   - [on GitHub](https://github.com/cmu-phil/tetrad)
 - [University of Pittsburgh Center for Causal Discovery (CCD)](http://www.ccd.pitt.edu/data-science/)
 - [ETHZ causality resources](http://www.causality.inf.ethz.ch/resources.php)
@@ -89,7 +89,7 @@ It includes conventions for:
 **Bold** and _Italic_ and `Code` text
 
 ```
-[Link](url) and ![Image](src)
+[Link](url)
 ```
 
 ```markdown
@@ -105,3 +105,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+<!-- FOOTER  -->
+<div id="footer_wrap" class="outer">
+<footer class="inner">
+Causal Modeling Resources<br/>
+Authors: Giovanni Fossati, Murat Aytelin
+</footer>
+</div>
