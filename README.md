@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Causality Modeling Resources
 
 You can use the [editor on GitHub](https://github.com/pedrosan/CausalModeling/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,15 +11,24 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Lectures
 
-- Bulleted
-- List
+## Videos
 
-1. Numbered
-2. List
+- [PGM Koller videos playlist](https://www.youtube.com/playlist?list=PL50E6E80E8525B59C)
+
+## Lectures Notes
+
+- [Stanford CS228 Lecture Notes](https://ermongroup.github.io/cs228-notes/)
+
+# Reading Material
+
+- [Adam Kelleher blog series](https://medium.com/@akelleh/causal-data-science-721ed63a4027)
+
+# Software
+
+- [Adam Kelleher 'causality' python package](https://github.com/akelleh/causality)
+
 
 **Bold** and _Italic_ and `Code` text
 
