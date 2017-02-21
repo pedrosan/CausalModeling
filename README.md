@@ -4,36 +4,47 @@ You can use the [editor on GitHub](https://github.com/pedrosan/CausalModeling/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## MXM
+
+- [main page](http://mensxmachina.org/en/)
+
+<hr/>
+
+## Lectures
+
+### Videos
+
+- [PGM Koller videos playlist](https://www.youtube.com/playlist?list=PL50E6E80E8525B59C)
+
+### Lectures Notes
+
+- [Stanford CS228 Lecture Notes](https://ermongroup.github.io/cs228-notes/)
+  - [Intro](https://ermongroup.github.io/cs228-notes/preliminaries/introduction/)
+- [NYU Sontag PGM course](http://cs.nyu.edu/~dsontag/courses/pgm13/)
+
+## Reading Material
+
+- [Adam Kelleher blog series](https://medium.com/@akelleh/causal-data-science-721ed63a4027)
+- [Judea Pearl home](http://bayes.cs.ucla.edu/home.htm)
+- ['Causality' book page](http://bayes.cs.ucla.edu/BOOK-2K/)
+
+## Software
+
+- [Adam Kelleher 'causality' python package](https://github.com/akelleh/causality)
+
+
+<hr>
+
+## About Markdown
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
-```
-
-# Lectures
-
-## Videos
-
-- [PGM Koller videos playlist](https://www.youtube.com/playlist?list=PL50E6E80E8525B59C)
-
-## Lectures Notes
-
-- [Stanford CS228 Lecture Notes](https://ermongroup.github.io/cs228-notes/)
-
-# Reading Material
-
-- [Adam Kelleher blog series](https://medium.com/@akelleh/causal-data-science-721ed63a4027)
-
-# Software
-
-- [Adam Kelleher 'causality' python package](https://github.com/akelleh/causality)
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
