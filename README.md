@@ -7,6 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## MXM
 
 - [main page](http://mensxmachina.org/en/)
+- [R package](https://cran.r-project.org/web/packages/MXM/index.html)
 
 <hr/>
 
@@ -19,8 +20,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Lectures Notes
 
 - [Stanford CS228 Lecture Notes](https://ermongroup.github.io/cs228-notes/)
-  - [Intro](https://ermongroup.github.io/cs228-notes/preliminaries/introduction/)
+  - [Introduction](https://ermongroup.github.io/cs228-notes/preliminaries/introduction/)
+  - [Bayesian Networks](https://ermongroup.github.io/cs228-notes/representation/directed/)
 - [NYU Sontag PGM course](http://cs.nyu.edu/~dsontag/courses/pgm13/)
+
+<hr/>
 
 ## Reading Material
 
