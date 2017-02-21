@@ -1,6 +1,6 @@
 ## Causality Modeling Resources
 
-<span style="font-size: small;">You can use the [editor on GitHub](https://github.com/pedrosan/CausalModeling/edit/master/README.md) to maintain and preview the content for your website in Markdown files. </span><<br/>
+<span style="font-size: small;">You can use the [editor on GitHub](https://github.com/pedrosan/CausalModeling/edit/master/README.md) to maintain and preview the content for your website in Markdown files. </span><br/>
 
 ## MXM
 
