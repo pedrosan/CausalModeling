@@ -17,9 +17,17 @@ body {
     /* background: #EEEEEE url(../images/body-bg.png) 0 0 repeat !important; */
     /* font-size: 14px !important;  */
     /* font-size: 12px;  */
-    font-family: 'Roboto+Condensed';
+    /* font-family: 'Roboto+Condensed'; */
 }
 
 ul {
     margin-bottom: 0px;
+}
+
+h3 {
+    margin-top: 2em !important;
+}
+
+div.wrapper {
+       width: 80% !important;
 }
