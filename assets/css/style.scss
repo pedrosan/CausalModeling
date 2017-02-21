@@ -31,3 +31,15 @@ h3 {
 div.wrapper {
        width: 80% !important;
 }
+
+hr { 
+    /* width: 80%;  */
+    width: 10%; 
+    border-top: 0px dotted #666; 
+    border-bottom: 3px dotted #666; 
+    margin-left: 0%; 
+    height: 1px !important; 
+    /* background-color: #F00 !important; */
+    border-color: #888 !important;
+    margin-top: 2em;
+}
