@@ -60,6 +60,7 @@
 - [Tyler Vanderweele (@Harvard SPH)](https://www.hsph.harvard.edu/tyler-vanderweele/)
 - [Jin Tian (@IAState CS)](http://web.cs.iastate.edu/~jtian/)
   - [`BNLearner` s/w](http://web.cs.iastate.edu/~jtian/Software/BNLearner/BNLearner.htm)
+- [Sander Greenland (@UCLA)](http://ph.ucla.edu/faculty/greenland)
 - [Project X Research - Direct Graphical Models](http://research.project-10.de/dgm/)
 - [ETHZ causality resources](http://www.causality.inf.ethz.ch/resources.php)
 
