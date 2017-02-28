@@ -41,6 +41,7 @@
 - [StitchFix: _Making Causal Impact Analysis Easy_](http://multithreaded.stitchfix.com/blog/2016/01/13/market-watch/)
 - [Thomas Huijskens: _The fundamental problem of causal analysis_](https://thuijskens.github.io/2016/08/25/causal-modelling/)
 - [Yanir Seroussi: _Why you should stop worrying about deep learning and deepen your understanding of causality instead_](https://yanirseroussi.com/2016/02/14/why-you-should-stop-worrying-about-deep-learning-and-deepen-your-understanding-of-causality-instead/)
+- [_Probabilistic Graphical Models: Bayesian Networks Example With R, Python, SAMIAM_](http://plus8888.blogspot.com/2016/12/probabilistic-graphical-models-bayesian.html)
 
 ### Books
 
