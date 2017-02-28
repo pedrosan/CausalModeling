@@ -22,6 +22,7 @@
   - [Introduction](https://ermongroup.github.io/cs228-notes/preliminaries/introduction/)
   - [Bayesian Networks](https://ermongroup.github.io/cs228-notes/representation/directed/)
 - [NYU Sontag PGM course](http://cs.nyu.edu/~dsontag/courses/pgm13/)
+- [Elwert _Causal Inference with DAGs_](http://www.ssc.wisc.edu/~felwert/causality/?page_id=66)
 
 
 <hr/>
@@ -53,8 +54,13 @@
 
 - [Probabilistic Graphical Models @Stanford](http://pgm.stanford.edu/)
 - [Vanderbilt Discovery Systems Laboratory](http://www.dsl-lab.org/)
-- [Project X Research - Direct Graphical Models](http://research.project-10.de/dgm/)
+- [Peter Spirtes (@CMU Philosophy)](http://www.cmu.edu/dietrich/philosophy/people/faculty/core-faculty/spirtes.html)
 - [University of Pittsburgh Center for Causal Discovery (CCD)](http://www.ccd.pitt.edu/data-science/)
+- [James Robins (@Harvard SPH)](https://www.hsph.harvard.edu/james-robins/)
+- [Tyler Vanderweele (@Harvard SPH)](https://www.hsph.harvard.edu/tyler-vanderweele/)
+- [Jin Tian (@IAState CS)](http://web.cs.iastate.edu/~jtian/)
+  - [`BNLearner` s/w](http://web.cs.iastate.edu/~jtian/Software/BNLearner/BNLearner.htm)
+- [Project X Research - Direct Graphical Models](http://research.project-10.de/dgm/)
 - [ETHZ causality resources](http://www.causality.inf.ethz.ch/resources.php)
 
 
@@ -72,6 +78,9 @@
   - `causalmodels`: [pypi](https://pypi.python.org/pypi/causalmodels/) and [GitHub](https://github.com/roronya/causalmodels)
 - [UnBBayes (open source s/w for modeling, learning and reasoning upon probabilistic networks](http://unbbayes.sourceforge.net/)
 - [SamIam (@UCLA)](http://reasoning.cs.ucla.edu/samiam/)
+- [`BNLearner`](http://web.cs.iastate.edu/~jtian/Software/BNLearner/BNLearner.htm)
+- [BDGAL, Bayesian DAG Learning](http://www.cs.ubc.ca/~murphyk/Software/BDAGL/)
+
 
 <hr class="thick"/>
 
