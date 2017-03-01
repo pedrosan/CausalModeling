@@ -84,6 +84,7 @@
 - [BDGAL, Bayesian DAG Learning](http://www.cs.ubc.ca/~murphyk/Software/BDAGL/)
 - [`DAGitty`: A Graphical Tool for Analyzing Causal Diagrams](http://dagitty.net/)
   - [online browser based version](http://dagitty.net/dags.html)
+  - [LOCAL version](file://chnas02/DSaT/Decision%20Sciences%20Team/Data%20Scientists/Projects/CausalModeling/software/DAGitty/dags.html)
 
 
 <hr class="thick"/>
