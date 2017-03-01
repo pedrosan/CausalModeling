@@ -83,6 +83,7 @@
 - [`BNLearner`](http://web.cs.iastate.edu/~jtian/Software/BNLearner/BNLearner.htm)
 - [BDGAL, Bayesian DAG Learning](http://www.cs.ubc.ca/~murphyk/Software/BDAGL/)
 - [`DAGitty`: A Graphical Tool for Analyzing Causal Diagrams](http://dagitty.net/)
+  - [online browser based version](http://dagitty.net/dags.html)
 
 
 <hr class="thick"/>
