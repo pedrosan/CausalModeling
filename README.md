@@ -82,6 +82,7 @@
 - [SamIam (@UCLA)](http://reasoning.cs.ucla.edu/samiam/)
 - [`BNLearner`](http://web.cs.iastate.edu/~jtian/Software/BNLearner/BNLearner.htm)
 - [BDGAL, Bayesian DAG Learning](http://www.cs.ubc.ca/~murphyk/Software/BDAGL/)
+- [`DAGitty`: A Graphical Tool for Analyzing Causal Diagrams](http://dagitty.net/)
 
 
 <hr class="thick"/>
