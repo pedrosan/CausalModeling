@@ -30,6 +30,7 @@
   - [Bayesian Networks](https://ermongroup.github.io/cs228-notes/representation/directed/)
 - [NYU Sontag PGM course](http://cs.nyu.edu/~dsontag/courses/pgm13/)
 - [Elwert _Causal Inference with DAGs_](http://www.ssc.wisc.edu/~felwert/causality/?page_id=66)
+- [UC Biostat, _"Introduction to Causal Inference"_](http://www.ucbbiostat.com/lectures)
 
 
 <hr/>
@@ -55,7 +56,7 @@
 - Pearl: _"Causality"_ / [@UCLA](http://bayes.cs.ucla.edu/BOOK-2K/) / [@Amazon](https://www.amazon.com/dp/052189560X/)
 - Koller & Friedman: _"Probabilistic Graphical Models"_ / [@MIT Press](https://mitpress.mit.edu/books/probabilistic-graphical-models) / [@Amazon](https://www.amazon.com/Probabilistic-Graphical-Models-Principles-Computation/dp/0262013193)
 - Shalizi: _"Advanced Data Analysis from an Elementary Point of View"_ / [@CMU](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
-
+- van der Laan & Rose: _"Targeted Learning: Causal Inference for Observational and Experimental Data"_ / [website](http://www.targetedlearningbook.com/) / [@Amazon](https://www.amazon.com/Targeted-Learning-Observational-Experimental-Statistics/dp/1441997814) / [@Springer](http://www.springer.com/us/book/9781441997814)
 
 <hr/>
 
