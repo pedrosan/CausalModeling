@@ -12,6 +12,13 @@
 
 ## Lectures
 
+### Courses
+
+- Coursera "Probabilistic Graphical Models" (Koller)
+  - [1. Representation](https://www.coursera.org/learn/probabilistic-graphical-models/)
+  - [2. Inference](https://www.coursera.org/learn/probabilistic-graphical-models-2-inference)
+  - [3. Learning](https://www.coursera.org/learn/probabilistic-graphical-models-3-learning)
+  
 ### Videos
 
 - [PGM Koller videos playlist](https://www.youtube.com/playlist?list=PL50E6E80E8525B59C)
