@@ -45,8 +45,9 @@
 
 ### Books
 
-- Pearl: "Causality" / [@UCLA](http://bayes.cs.ucla.edu/BOOK-2K/) / [@Amazon](https://www.amazon.com/dp/052189560X/)
-- Koller & Friedman: "Probabilistic Graphical Models" / [@MIT Press](https://mitpress.mit.edu/books/probabilistic-graphical-models) / [@Amazon](https://www.amazon.com/Probabilistic-Graphical-Models-Principles-Computation/dp/0262013193)
+- Pearl: _"Causality"_ / [@UCLA](http://bayes.cs.ucla.edu/BOOK-2K/) / [@Amazon](https://www.amazon.com/dp/052189560X/)
+- Koller & Friedman: _"Probabilistic Graphical Models"_ / [@MIT Press](https://mitpress.mit.edu/books/probabilistic-graphical-models) / [@Amazon](https://www.amazon.com/Probabilistic-Graphical-Models-Principles-Computation/dp/0262013193)
+- Shalizi: _"Advanced Data Analysis from an Elementary Point of View"_ [@CMU](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
 
 
 <hr/>
@@ -64,6 +65,7 @@
 - [Ilya Shpitser (@JHU CS)](https://www.cs.jhu.edu/faculty/ilya-shpitser-3/)
 - [Project X Research - Direct Graphical Models](http://research.project-10.de/dgm/)
 - [ETHZ causality resources](http://www.causality.inf.ethz.ch/resources.php)
+- [Cosma Shalizi (@CMU Stats)](http://www.stat.cmu.edu/~cshalizi/)
 
 
 <hr/>
