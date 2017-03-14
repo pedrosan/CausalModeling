@@ -54,7 +54,7 @@
 
 - Pearl: _"Causality"_ / [@UCLA](http://bayes.cs.ucla.edu/BOOK-2K/) / [@Amazon](https://www.amazon.com/dp/052189560X/)
 - Koller & Friedman: _"Probabilistic Graphical Models"_ / [@MIT Press](https://mitpress.mit.edu/books/probabilistic-graphical-models) / [@Amazon](https://www.amazon.com/Probabilistic-Graphical-Models-Principles-Computation/dp/0262013193)
-- Shalizi: _"Advanced Data Analysis from an Elementary Point of View"_ [@CMU](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
+- Shalizi: _"Advanced Data Analysis from an Elementary Point of View"_ / [@CMU](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
 
 
 <hr/>
