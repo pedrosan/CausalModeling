@@ -31,6 +31,7 @@
 - [NYU Sontag PGM course](http://cs.nyu.edu/~dsontag/courses/pgm13/)
 - [Elwert _Causal Inference with DAGs_](http://www.ssc.wisc.edu/~felwert/causality/?page_id=66)
 - [UC Biostat, _"Introduction to Causal Inference"_](http://www.ucbbiostat.com/lectures)
+  - [Readings](http://www.ucbbiostat.com/readings)
 
 
 <hr/>
