@@ -18,7 +18,10 @@
   - [1. Representation](https://www.coursera.org/learn/probabilistic-graphical-models/)
   - [2. Inference](https://www.coursera.org/learn/probabilistic-graphical-models-2-inference)
   - [3. Learning](https://www.coursera.org/learn/probabilistic-graphical-models-3-learning)
-  
+- [Univ. of Pittsburgh CCD _Short Summer Course (2016)_](http://www.ccd.pitt.edu/2016-short-course-datathon/) 
+  - [Videos (on YouTube)](https://youtu.be/9yEYZURoE3Y)
+- [CMU Causal and Statistical Reasoning](http://oli.cmu.edu/courses/future/causal-statistical-reasoning/)
+ 
 ### Videos
 
 - [PGM Koller videos playlist](https://www.youtube.com/playlist?list=PL50E6E80E8525B59C)
