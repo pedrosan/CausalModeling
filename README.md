@@ -20,6 +20,7 @@
   - [3. Learning](https://www.coursera.org/learn/probabilistic-graphical-models-3-learning)
 - [Univ. of Pittsburgh CCD _Short Summer Course (2016)_](http://www.ccd.pitt.edu/2016-short-course-datathon/) 
   - [Videos (on YouTube)](https://youtu.be/9yEYZURoE3Y)
+  - [Additional material on hackpad](https://hackpad.com/2016-Causal-Discovery-Course-RSf6boNbJVH)
 - [CMU Causal and Statistical Reasoning](http://oli.cmu.edu/courses/future/causal-statistical-reasoning/)
 - [NIPS 2013 Workshop on Causality](http://clopinet.com/isabelle/Projects/NIPS2013/) 
  
