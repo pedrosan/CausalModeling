@@ -87,6 +87,7 @@
 
 ## Software
 
+- `bnlearn` R package: [bnlearn](http://www.bnlearn.com/) ([@CRAN](https://cran.r-project.org/web/packages/bnlearn/index.html))
 - Adam Kelleher `causality` python package: [pypi](https://pypi.python.org/pypi/causality/0.0.3) and [GitHub](https://github.com/akelleh/causality)
 - [Google's `CausalImpact` R package](https://google.github.io/CausalImpact/CausalImpact.html) / [on GitHub](https://google.github.io/CausalImpact/)
 - [TETRAD](http://www.phil.cmu.edu/tetrad/) / [on GitHub](https://github.com/cmu-phil/tetrad)
