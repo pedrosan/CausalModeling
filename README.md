@@ -21,6 +21,9 @@
 - [Univ. of Pittsburgh CCD _Short Summer Course (2016)_](http://www.ccd.pitt.edu/2016-short-course-datathon/) 
   - [Videos (on YouTube)](https://youtu.be/9yEYZURoE3Y)
   - [Additional material on hackpad](https://hackpad.com/2016-Causal-Discovery-Course-RSf6boNbJVH)
+  - Tetrad 5.3.0 JNLP version [download](http://www.phil.cmu.edu/tetrad/jnlp/tetrad.jnlp.5.3.0.jnlp)
+  - Tetrad 5.3.0 jar file [download](http://www.phil.cmu.edu/projects/tetrad_download/maven/edu/cmu/tetrad-gui/5.3.0-SNAPSHOT/tetrad-gui-5.3.0-20160607.191423-7-launch.jar)
+  - datasets [download](http://www.phil.cmu.edu/projects/tetrad_download/download/workshops/CCD/2016/Datasets/)
 - [CMU Causal and Statistical Reasoning](http://oli.cmu.edu/courses/future/causal-statistical-reasoning/)
 - [NIPS 2013 Workshop on Causality](http://clopinet.com/isabelle/Projects/NIPS2013/) 
  
