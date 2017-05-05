@@ -24,6 +24,8 @@
   - Tetrad 5.3.0 JNLP version [[download](http://www.phil.cmu.edu/tetrad/jnlp/tetrad.jnlp.5.3.0.jnlp)]
   - Tetrad 5.3.0 jar file [[download](http://www.phil.cmu.edu/projects/tetrad_download/maven/edu/cmu/tetrad-gui/5.3.0-SNAPSHOT/tetrad-gui-5.3.0-20160607.191423-7-launch.jar)]
   - datasets [[download](http://www.phil.cmu.edu/projects/tetrad_download/download/workshops/CCD/2016/Datasets/)]
+- [Univ. of Pittsburgh CCD _Short Summer Course (2015)_](http://www.ccd.pitt.edu/training/summer-short-course-2015/)
+  - Tetrad 5.2.1.0 [[download](http://www.phil.cmu.edu/projects/tetrad_download/download/tetrad-5.2.1-0.jar)]
 - [CMU Causal and Statistical Reasoning](http://oli.cmu.edu/courses/future/causal-statistical-reasoning/)
 - [NIPS 2013 Workshop on Causality](http://clopinet.com/isabelle/Projects/NIPS2013/) 
  
