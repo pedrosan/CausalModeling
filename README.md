@@ -91,7 +91,8 @@
 - Adam Kelleher `causality` python package: [pypi](https://pypi.python.org/pypi/causality/0.0.3) and [GitHub](https://github.com/akelleh/causality)
 - [Google's `CausalImpact` R package](https://google.github.io/CausalImpact/CausalImpact.html) / [on GitHub](https://google.github.io/CausalImpact/)
 - [TETRAD](http://www.phil.cmu.edu/tetrad/) / [on GitHub](https://github.com/cmu-phil/tetrad)
-- [University of Pittsburgh Center for Causal Discovery (CCD)](http://www.ccd.pitt.edu/data-science/)
+  - [University of Pittsburgh Center for Causal Discovery (CCD)](http://www.ccd.pitt.edu/data-science/)
+  - [CCD software documentation](https://bd2kccd.github.io/docs/)
 - [ETHZ causality resources](http://www.causality.inf.ethz.ch/resources.php)
 - Other python packages:
   - `pycausal`: [pypi](https://pypi.python.org/pypi/pycausal/) and [GitHub](https://github.com/triptoes1/pycausal/)
