@@ -97,6 +97,7 @@
 - Other python packages:
   - `pycausal`: [pypi](https://pypi.python.org/pypi/pycausal/) and [GitHub](https://github.com/triptoes1/pycausal/)
   - `causalmodels`: [pypi](https://pypi.python.org/pypi/causalmodels/) and [GitHub](https://github.com/roronya/causalmodels)
+  - `pgmpy`: [web page](http://pgmpy.org/index.html)
 - [UnBBayes (open source s/w for modeling, learning and reasoning upon probabilistic networks](http://unbbayes.sourceforge.net/)
 - [SamIam (@UCLA)](http://reasoning.cs.ucla.edu/samiam/)
 - [`BNLearner`](http://web.cs.iastate.edu/~jtian/Software/BNLearner/BNLearner.htm)
