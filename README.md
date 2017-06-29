@@ -76,7 +76,7 @@
 
 - [Probabilistic Graphical Models @Stanford](http://pgm.stanford.edu/)
 - [Vanderbilt Discovery Systems Laboratory](http://www.dsl-lab.org/)
-- [Peter Spirtes (@CMU Philosophy)](http://www.cmu.edu/dietrich/philosophy/people/faculty/core-faculty/spirtes.html)
+- [Peter Spirtes (@CMU Philosophy)](http://www.cmu.edu/dietrich/philosophy/people/faculty/spirtes.html)
 - [University of Pittsburgh Center for Causal Discovery (CCD)](http://www.ccd.pitt.edu/data-science/)
 - [James Robins (@Harvard SPH)](https://www.hsph.harvard.edu/james-robins/)
 - [Tyler Vanderweele (@Harvard SPH)](https://www.hsph.harvard.edu/tyler-vanderweele/)
